@@ -1,0 +1,34 @@
+{
+ "term_id": 1261,
+ "n_sections": 294,
+ "n_lec": 179,
+ "n_lab": 115,
+ "n_without_meetings": 130,
+ "subjects": [
+  "CMSC"
+ ],
+ "faculty_variables": 164,
+ "faculty_instructors": 40,
+ "faculty_baseline_conflicts": 0,
+ "student_bundles": 267,
+ "student_usable_bundles": 137,
+ "student_instances": 10,
+ "curriculum_options_without_offering": [
+  "CMSC 127",
+  "CMSC 128",
+  "CMSC 131",
+  "CMSC 137",
+  "CMSC 173",
+  "CMSC 180",
+  "CMSC 23",
+  "CMSC 57",
+  "HK 11",
+  "HK 12",
+  "HK 13",
+  "MATH 27",
+  "MATH 28",
+  "NSTP 1",
+  "NSTP 2",
+  "STAT 101"
+ ]
+}

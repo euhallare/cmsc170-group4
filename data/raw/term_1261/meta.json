@@ -1,0 +1,15 @@
+{
+  "term_id": 1261,
+  "last_scrape_utc": "2026-10-24T06:42:21+00:00",
+  "source": "https://api-amis.uplb.edu.ph/api/students/classes",
+  "filters": {
+    "items": 50,
+    "section_like": null,
+    "class_status": null,
+    "status": "Active"
+  },
+  "note": "Instructor names removed at scrape time; only faculty_id kept.",
+  "rows_per_subject": {
+    "CMSC": 267
+  }
+}
