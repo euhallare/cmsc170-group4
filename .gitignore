@@ -1,0 +1,18 @@
+# --- AMIS login session / secrets (NEVER commit) ---
+amis_session/
+amis_session_*/
+.env
+*token*
+main.py
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
